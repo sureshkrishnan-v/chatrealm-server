@@ -7,7 +7,7 @@ A comprehensive Go-based chat server with tier-based access control, real-time m
 ### 🚀 Core Features
 - **Multi-tier Authentication**: Free, Premium, and Admin user levels
 - **Real-time Messaging**: WebSocket-based instant communication
-- **Anonymous Guest Access**: Join without registration (like chatusa.com)
+- **Anonymous Guest Access**: Join without registration (like chatApplication.com)
 - **Username Search**: Find users by username
 - **File Upload Support**: Images and documents for premium users
 - **Room Management**: Public, private, and VIP chat rooms
@@ -145,9 +145,9 @@ premium-chat-backend/
 | **Private** | Premium+ | Password protection, enhanced features |
 | **VIP** | Premium+ | Exclusive rooms, premium features |
 
-## Comparison with chatusa.com
+## Comparison with chatApplication.com
 
-| Feature | chatusa.com | Premium Chat Backend |
+| Feature | chatApplication.com | Premium Chat Backend |
 |---------|-------------|---------------------|
 | Anonymous Access | ✅ | ✅ Enhanced |
 | User Registration | Optional | ✅ Full featured |
@@ -312,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by chatusa.com's simplicity and anonymity features
+- Inspired by chatApplication.com's simplicity and anonymity features
 - Built with modern Go best practices
 - Designed for scalability and performance
 
